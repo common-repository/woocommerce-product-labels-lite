@@ -1,0 +1,134 @@
+.tw-bs iframe{
+	margin:0px;
+	padding:0px;
+}
+.image_with_labels {
+position: relative;
+}
+/* Main Color */
+.pink:hover{
+color: #ffc0cb !important;
+}
+.orange:hover{
+color: #ffa500 !important;
+}
+.brown:hover{
+color: #8b4513 !important;
+}
+.green:hover{
+color: #7cfc00 !important;
+}
+.yellow:hover{
+color: #ff0 !important;
+}
+.blue:hover{
+color: #00f !important;
+}
+.black:hover{
+color: #000 !important;
+}
+.white:hover{
+color: #fff !important;
+}
+.red:hover{
+color: #f00 !important;
+}
+
+
+/* Unactive */
+.pink_unactive{
+color: #ffc0cb;                 
+}
+.orange_unactive{
+color: #ffa500;                 
+}
+.brown_unactive{
+color: #8b4513;                 
+}
+.green_unactive{
+color: #7cfc00;                 
+}
+.yellow_unactive{
+color: #ff0;                 
+}
+.blue_unactive{
+color: #00f;                 
+}
+.black_unactive{
+color: #000 ;                
+}
+.white_unactive{
+color: #fff;
+}
+.red_unactive{
+color: #f00;
+}
+
+/* BG Colors */
+
+.pink_bg:hover{
+background: rgba( 255,192,203,1) !important;               
+}
+.pink_bg:after{
+box-shadow: 0 0 0 4px #ffc0cb  !important;             
+}
+
+.orange_bg:hover{
+background: rgba( 255,165,0,1) !important;               
+}
+.orange_bg:after{
+box-shadow: 0 0 0 4px #ffa500  !important;             
+}
+
+.brown_bg:hover{
+background: rgba( 139,69,19,1) !important;               
+}
+.brown_bg:after{
+box-shadow: 0 0 0 4px #8b4513  !important;             
+}
+
+.green_bg:hover{
+background: rgba( 124,252,0,1) !important;               
+}
+.green_bg:after{
+box-shadow: 0 0 0 4px #7cfc00  !important;             
+}
+
+.yellow_bg:hover{
+background: rgba(255,255,0,1) !important;               
+}
+.yellow_bg:after{
+box-shadow: 0 0 0 4px #ff0  !important;             
+}
+
+
+.blue_bg:hover{
+background: rgba(0,0,255,1) !important;               
+}
+.blue_bg:after{
+box-shadow: 0 0 0 4px #00f  !important;             
+}
+
+.black_bg:hover{
+background: rgba(0,0,0,1) !important;               
+}
+.black_bg:after{
+box-shadow: 0 0 0 4px #000  !important;             
+}
+
+.white_bg:hover{
+background: rgba(255,255,255,1) !important;
+}
+.white_bg:after{
+box-shadow: 0 0 0 4px #fff !important;   
+}
+
+
+.red_bg:hover{
+background: rgba(255,0,0,1) !important;
+}
+.red_bg:after{
+box-shadow: 0 0 0 4px #f00 !important;   
+}
+
+

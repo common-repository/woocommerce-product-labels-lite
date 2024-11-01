@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: soccer\n"
+"POT-Creation-Date: 2014-02-28 12:38+0200\n"
+"PO-Revision-Date: 2014-02-28 12:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/meta_box.php:9
+msgid "Edit Labels"
+msgstr ""
+
+#: modules/meta_box.php:29
+msgid "Code to use"
+msgstr ""
+
+#: modules/meta_box.php:32
+msgid "You can use this shortcode in any place of post content"
+msgstr ""
+
+#: modules/meta_box.php:34
+msgid "You can use this php code if you want to integrate it in source files."
+msgstr ""
+
+#: modules/meta_box.php:39
+msgid "Where to show image?"
+msgstr ""
+
+#: modules/meta_box.php:42
+msgid "Manual"
+msgstr ""
+
+#: modules/meta_box.php:43
+msgid "Above Content"
+msgstr ""
+
+#: modules/meta_box.php:44
+msgid "Below Content"
+msgstr ""
+
+#: modules/meta_box.php:50
+msgid "Select Image"
+msgstr ""
+
+#: modules/meta_box.php:53
+msgid "Upload File"
+msgstr ""
+
+#: modules/meta_box.php:69
+msgid "Label Properties"
+msgstr ""
+
+#: modules/meta_box.php:77
+msgid "Preview"
+msgstr ""
+
+#: modules/meta_box.php:95
+msgid "Unactive Color"
+msgstr ""
+
+#: modules/meta_box.php:98 modules/meta_box.php:114 modules/meta_box.php:131
+msgid "Pink"
+msgstr ""
+
+#: modules/meta_box.php:99 modules/meta_box.php:115 modules/meta_box.php:132
+msgid "Orange"
+msgstr ""
+
+#: modules/meta_box.php:100 modules/meta_box.php:116 modules/meta_box.php:133
+msgid "Brown"
+msgstr ""
+
+#: modules/meta_box.php:101 modules/meta_box.php:117 modules/meta_box.php:134
+msgid "Green"
+msgstr ""
+
+#: modules/meta_box.php:102 modules/meta_box.php:118 modules/meta_box.php:136
+msgid "Blue"
+msgstr ""
+
+#: modules/meta_box.php:103 modules/meta_box.php:119 modules/meta_box.php:135
+msgid "Yellow"
+msgstr ""
+
+#: modules/meta_box.php:104 modules/meta_box.php:120 modules/meta_box.php:137
+msgid "Black"
+msgstr ""
+
+#: modules/meta_box.php:105 modules/meta_box.php:121 modules/meta_box.php:138
+msgid "White"
+msgstr ""
+
+#: modules/meta_box.php:106 modules/meta_box.php:122 modules/meta_box.php:139
+msgid "Red"
+msgstr ""
+
+#: modules/meta_box.php:111
+msgid "Hover Color"
+msgstr ""
+
+#: modules/meta_box.php:128
+msgid "Background Color"
+msgstr ""
+
+#: modules/meta_box.php:177
+msgid "Show Popup Action"
+msgstr ""
+
+#: modules/meta_box.php:180
+msgid "Click"
+msgstr ""
+
+#: modules/meta_box.php:181
+msgid "Hover"
+msgstr ""
+
+#: modules/meta_box.php:187
+msgid "Select list"
+msgstr ""
+
+#: modules/meta_box.php:270
+msgid "Label Content"
+msgstr ""
+
+#: modules/meta_box.php:284
+msgid "Save changes"
+msgstr ""
+
+#: modules/meta_box.php:285
+msgid "Delete Button"
+msgstr ""
+
+#: modules/settings.php:6
+msgid "Labels"
+msgstr ""
+
+#: modules/settings.php:14
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: modules/settings.php:28
+#, fuzzy
+msgid "Saved"
+msgstr "speichern"
+
+#~ msgid "Booking Orders"
+#~ msgstr "Reservierungen"
+
+#~ msgid "Order"
+#~ msgstr "Reservierung"
+
+#~ msgid "Add New"
+#~ msgstr "Neue Reservierung"
+
+#~ msgid "Add New Order"
+#~ msgstr "Neue Reservierung"
+
+#~ msgid "Edit Order"
+#~ msgstr "Reservierung bearbeiten"
+
+#~ msgid "New Order"
+#~ msgstr "Neue Reservierung"
+
+#~ msgid "All Orders"
+#~ msgstr "Alle Reservierungen"
+
+#~ msgid "View Order"
+#~ msgstr "Reservierung ansehen"
+
+#~ msgid "Search Order"
+#~ msgstr "Suche Reservierung"
+
+#~ msgid "No Orders found"
+#~ msgstr "Keine Reservierung gefunden"
+
+#~ msgid "No Orders found in Trash"
+#~ msgstr "Keine gelöschte Reservierung gefunden"
+
+#~ msgid "Skills"
+#~ msgstr "Skills"
+
+#~ msgid "Phone"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "Soccer Settings"
+#~ msgstr "Einstellungen"
+
+#~ msgid "Settings saved successfully"
+#~ msgstr "Einstellungen gespeichert"
+
+#~ msgid "Admin Email Address"
+#~ msgstr "Administrator Emailaddresse"
+
+#~ msgid "Admin Email Subject"
+#~ msgstr "Administrator Email-Betreff"
+
+#~ msgid ""
+#~ "Here you can compose your mail text. Use %order_info%, %login%, %firstname"
+#~ "%, %lastname%, %date%, %time%, %field%, %phone% "
+#~ msgstr ""
+#~ "Kurzel zum Einfugen in die Email: %order_info%, %login%, %firstname%, "
+#~ "%lastname%, %date%, %time%, %field%, %phone%"
+
+#~ msgid "User Email Subject"
+#~ msgstr "Kunde Email-Betreff"
+
+#~ msgid "Username"
+#~ msgstr "Emailadresse"
+
+#~ msgid "Password"
+#~ msgstr "Passwort"
+
+#~ msgid "Remember Me"
+#~ msgstr "an mich erinnern"
+
+#~ msgid "Log In"
+#~ msgstr "Einloggen"
+
+#~ msgid "Register"
+#~ msgstr "Registieren"
+
+#~ msgid "Forgot Password?"
+#~ msgstr "Passwort vergessen"
+
+#~ msgid "Are you sure you want to book this time?"
+#~ msgstr "Möchten Sie das Indoorsoccer Feld wirklich kostenpflichtig buchen?"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "Success!"
+#~ msgstr "Reservierung erfolgreich"
+
+#~ msgid "Tnx for your booking."
+#~ msgstr "Vielen Dank fur Ihre Reservierung"
+
+#~ msgid "Left"
+#~ msgstr "Früher"
+
+#~ msgid "Right"
+#~ msgstr "Später"
+
+#~ msgid "Hours"
+#~ msgstr "Stunden"
+
+#~ msgid "Fields"
+#~ msgstr "Felder"
+
+#~ msgid "Field 1"
+#~ msgstr "Feld 1"
+
+#~ msgid "Field 2"
+#~ msgstr "Feld 2"
+
+#~ msgid "Field 3"
+#~ msgstr "Feld 3"
+
+#~ msgid "Sunday"
+#~ msgstr "Sonntag"
+
+#~ msgid "Monday"
+#~ msgstr "Montag"
+
+#~ msgid "Tuesday"
+#~ msgstr "Dienstag"
+
+#~ msgid "Wednesday"
+#~ msgstr "Mittwoch"
+
+#~ msgid "Thursday"
+#~ msgstr "Donnerstag"
+
+#~ msgid "Friday"
+#~ msgstr "Freitag"
+
+#~ msgid "Saturday"
+#~ msgstr "Samstag"
